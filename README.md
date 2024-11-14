@@ -7,6 +7,7 @@ This analysis is to show the performance analysis of the branches total sales by
 ## Second Project:   Udemy Course Analysis
 ### Insights
 
+The aim of this project is basically to analyze the revenue and subscriber base of the online learning platform Udemy over 6 years from 2011 to 2017 and provide actionable insights based on the analysis.
 Web development courses stood out as a major contributor to an increased number of subscribers and a significant share of the total revenue, generating 8M in subscribers and $631M in Total Revenue. 
 1. Lectures by subject
 2. Subject by review
