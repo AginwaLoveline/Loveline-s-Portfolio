@@ -44,4 +44,4 @@ This analysis aims to identify trends, patterns, and key factors influencing sal
 - Adidas should prioritize Retailer D as they contribute greatly to the profitability of the company, hence partnership deals should be put in place for Retailer D
   
 Summarily, this will help Adidas to know the sales trend of sneakers sales ensuring sustainable growth and profitability with its competitors when it comes to sneakers
-![alt text]()
+![alt text](Dashbord.png)
