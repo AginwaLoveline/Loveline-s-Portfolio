@@ -11,7 +11,7 @@ The aim of this project is basically to analyze the revenue and subscriber base 
 Web development courses stood out as a major contributor to an increased number of subscribers and a significant share of the total revenue, generating 8M in subscribers and $631M in Total Revenue. 
 
 
-#### Insights
+### Insights
 1. Lectures by subject
 2. Subject by review
 3. Subject by subscribers
@@ -44,5 +44,4 @@ This analysis aims to identify trends, patterns, and key factors influencing sal
 - Adidas should prioritize Retailer D as they contribute greatly to the profitability of the company, hence partnership deals should be put in place for Retailer D
   
 Summarily, this will help Adidas to know the sales trend of sneakers sales ensuring sustainable growth and profitability with its competitors when it comes to sneakers
-![alt text](<img width="647" alt="Dashboard" src="https://github.com/user-attachments/assets/40d63bae-345f-4d38-ad9a-943b6c51f62b">
-)
+![alt text]()
